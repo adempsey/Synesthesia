@@ -6,3 +6,4 @@ B2: bubbles_enable
 C3: bubbles_pulse
 
 C4: runner_diddy
+C4#: runner_pugs
