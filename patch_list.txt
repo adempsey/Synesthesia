@@ -1,2 +1,4 @@
+C-2: background_solid_brightness
+
 B2: bubbles_enable
 C3: bubbles_pulse
